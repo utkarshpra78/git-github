@@ -4,5 +4,4 @@ const fxn=()=>{
 const fxn2=()=>{
     console.log("added 2 fxn")
 }
-
-fxn1()
+ 
