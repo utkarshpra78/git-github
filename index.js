@@ -5,6 +5,7 @@ function index() {
     <div>
       git and github tutorisl addede
       tracked by the git
+      git and github
     </div>
   )
 }
